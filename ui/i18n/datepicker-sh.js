@@ -13,7 +13,7 @@
 }(function( datepicker ) {
 
 datepicker.regional['sh'] = {
-	closeText: 'ඉවරයි',
+	closeText: 'අවසන්',
 	prevText: 'පෙර',
 	nextText: 'ඊලග',
 	currentText: 'අද',
